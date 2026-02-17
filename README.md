@@ -1,1 +1,1 @@
-BitTorrent client in go programming language
+Torrent Client in Go
